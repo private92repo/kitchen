@@ -5,7 +5,7 @@
 
 | Рецепт | Фотка |
 | -------------- | ---- |
-| [Котлеты «По-Петелински» со сладким перцем и сыром](https://www.say7.info/cook/recipe/852-Kotletyi-kurinyim.html) | 
+| [Котлеты «По-Петелински» со сладким перцем и сыром](https://www.say7.info/cook/recipe/852-Kotletyi-kurinyim.html) | ![image](https://user-images.githubusercontent.com/100151463/160600850-6c3c7a5c-ac6a-4a09-a102-b066ccee95ad.png) |
 | [✔ Котлеты Пожарские](https://1000.menu/cooking/2516-kotletj-pozharskie) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/)) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154995556-f8e8b3e3-cc10-46ae-9a81-467514a7c34c.png"></img> <img width="15%" src="https://user-images.githubusercontent.com/100151463/154995549-89faa18e-e799-4000-afa4-2fd92e0ec1d7.png"></img>
 | [✔ Равиоли с сыром](https://grandkulinar.ru/14570-ravioli-s-syrom-v-rozovom-souse.html) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996593-9ba517fb-75bf-482b-a35c-2c861e6ad06f.png"></img>
 | [✔ Харчо](https://www.russianfood.com/recipes/recipe.php?rid=120692) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/155842805-b0a74123-ea50-4323-bbdc-cd4a07846fcf.png"></img> |
