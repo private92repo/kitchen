@@ -17,7 +17,9 @@
 | [❌ Сосиски запеченных с сыром](https://www.1001eda.com/cosiski-zapechennye-s-syrom-recept-s-poshagovym-foto) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025157-83beae85-be3c-4cee-bd1a-b35909fb683f.png"></img>
 | [❌ Кальмары фаршированные](https://www.russianfood.com/recipes/recipe.php?rid=149539) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025528-a0b56270-c10a-4272-b459-3af15f906bfd.png"></img>
 | [Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
-  
+| [Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
+
+
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
 | ---- | --- |
 
