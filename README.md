@@ -24,6 +24,7 @@
 | [Суп-Пюре брокколи](https://www.google.com/search?q=%D1%81%D1%83%D0%BF+%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8&oq=%D1%81%D1%83%D0%BF+%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8+&aqs=chrome..69i57j0i512l7.3320j0j7&sourceid=chrome&ie=UTF-8) | ![image](https://user-images.githubusercontent.com/100151463/161424687-01b99612-ac56-4ccd-8801-97dda53abe45.png)
 | [Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
 | [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
+| [Сырники](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
 
 ### Продукты
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
