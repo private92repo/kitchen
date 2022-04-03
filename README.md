@@ -2,7 +2,6 @@
 ### Свиные ребрышки в пакете
 - В пакете - 50 минут
 - Разрезать пакет - 20 минут
-
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://www.say7.info/cook/recipe/852-Kotletyi-kurinyim.html) | ![image](https://user-images.githubusercontent.com/100151463/160600850-6c3c7a5c-ac6a-4a09-a102-b066ccee95ad.png) |
@@ -20,7 +19,9 @@
 | [Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
 | [Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [Суп-Пюре брокколи](https://www.google.com/search?q=%D1%81%D1%83%D0%BF+%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8&oq=%D1%81%D1%83%D0%BF+%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8+&aqs=chrome..69i57j0i512l7.3320j0j7&sourceid=chrome&ie=UTF-8) | ![image](https://user-images.githubusercontent.com/100151463/161424687-01b99612-ac56-4ccd-8801-97dda53abe45.png)
+| [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
 
+### Продукты
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
 | ---- | --- |
 
