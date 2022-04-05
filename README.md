@@ -14,6 +14,7 @@
 | [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025485-180d1491-5137-44ea-89a6-d56c5ec7df4c.png"></img> |
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
 | [✔ Харчо](https://www.russianfood.com/recipes/recipe.php?rid=120692) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/155842805-b0a74123-ea50-4323-bbdc-cd4a07846fcf.png"></img> |
+| [✔ Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
 | [❌ Свинина в кляре, запеченная в духовке под сыром](https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158024967-a6767fc3-8ce6-4f82-bc3c-2e7f12427318.png"></img> |
 | [❌ Сосиски запеченных с сыром](https://www.1001eda.com/cosiski-zapechennye-s-syrom-recept-s-poshagovym-foto) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025157-83beae85-be3c-4cee-bd1a-b35909fb683f.png"></img>
@@ -21,11 +22,14 @@
 | [❌ Гаспачо](https://gotovim-doma.ru/recipe/1034-gaspacho-kholodnyi-tomatnyi-sup) | ![image](https://user-images.githubusercontent.com/100151463/161424812-34fdf895-d6c9-4200-98b0-f494e9788686.png)
 | [Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
 | [Ленивый фасолевый суп](https://gotovim-doma.ru/recipe/3009-lenivyy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425549-c01800ed-93f5-4ee1-be5f-4644d29bc019.png)
-| [Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [Суп-Пюре брокколи](https://www.google.com/search?q=%D1%81%D1%83%D0%BF+%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8&oq=%D1%81%D1%83%D0%BF+%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8+&aqs=chrome..69i57j0i512l7.3320j0j7&sourceid=chrome&ie=UTF-8) | ![image](https://user-images.githubusercontent.com/100151463/161424687-01b99612-ac56-4ccd-8801-97dda53abe45.png)
 | [Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
 | [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
 | [Сырники (рецепт в Духовке)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
+| [Суп с рисом и болгарским перцем](https://gotovim-doma.ru/recipe/617-sup-s-risom-i-bolgarskim-pertsem) | ![image](https://user-images.githubusercontent.com/100151463/161812025-a3ffc499-724b-46b7-bdfe-5b4ce2fbef24.png)
+
+
+
 
 ### Продукты
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
