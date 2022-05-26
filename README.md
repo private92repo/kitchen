@@ -13,6 +13,7 @@
 | [✔ Куриные наггетсы в духовке](https://1000.menu/cooking/25647-naggetsy-domashnie-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025428-39eb78e9-83bd-4c88-96d1-55b75da9ef6c.png"></img>
 | [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025485-180d1491-5137-44ea-89a6-d56c5ec7df4c.png"></img> |
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
+| [✔ Гречневый суп](https://tvoirecepty.ru/recept/grechnevyi-sup-v-multivarke) | ![image](https://user-images.githubusercontent.com/100151463/170494939-482c90f4-9c70-4536-b2d0-046381617a46.png)
 | [✔ Харчо](https://www.russianfood.com/recipes/recipe.php?rid=120692) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/155842805-b0a74123-ea50-4323-bbdc-cd4a07846fcf.png"></img> |
 | [✔ Ленивый фасолевый суп](https://gotovim-doma.ru/recipe/3009-lenivyy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425549-c01800ed-93f5-4ee1-be5f-4644d29bc019.png)
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
