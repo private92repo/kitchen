@@ -29,7 +29,6 @@
 | [Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
 | [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
 | [Сырники (рецепт в Духовке)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
-| [Томатный суп по-португальски с яйцом](https://gotovim-doma.ru/recipe/19316-tomatnyy-sup-po-portugalski-s-yaytsom) | ![image](https://user-images.githubusercontent.com/100151463/161812119-66c58c9d-046f-4476-b8bd-41f1e790d240.png)
 | [Итальянский густой фасолевый суп](https://gotovim-doma.ru/recipe/1766-italyanskiy-gustoy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161812178-fc06818c-f904-4478-a4d0-c9ad789e16e8.png)
 | [Мексиканский пряный суп с курицей](https://gotovim-doma.ru/recipe/1910-meksikanskiy-pryanyy-sup-s-kuritsey) | ![image](https://user-images.githubusercontent.com/100151463/161812223-652c6738-754f-4640-b2e2-a5dfe9727377.png)
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
