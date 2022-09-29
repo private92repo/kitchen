@@ -24,6 +24,7 @@
 | [❌ Свинина в кляре, запеченная в духовке под сыром](https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158024967-a6767fc3-8ce6-4f82-bc3c-2e7f12427318.png"></img> |
 | [❌ Сосиски запеченных с сыром](https://www.1001eda.com/cosiski-zapechennye-s-syrom-recept-s-poshagovym-foto) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025157-83beae85-be3c-4cee-bd1a-b35909fb683f.png"></img>
 | [❌ Кальмары фаршированные](https://www.russianfood.com/recipes/recipe.php?rid=149539) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025528-a0b56270-c10a-4272-b459-3af15f906bfd.png"></img>
+| [❌ Кролик тушёный в духовке в сметане](https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke) | ![image](https://user-images.githubusercontent.com/100151463/193091254-2532ad51-bc1d-46cc-a366-154f15138edc.png)
 | [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
 | [❌ (вроде как) Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
 | [Чечевичный суп с квашеной капустой и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=160812) | ![image](https://user-images.githubusercontent.com/100151463/162277774-6ea1085a-ac02-4f30-8503-7f392a811ed1.png)
@@ -34,7 +35,6 @@
 | [Мексиканский пряный суп с курицей](https://gotovim-doma.ru/recipe/1910-meksikanskiy-pryanyy-sup-s-kuritsey) | ![image](https://user-images.githubusercontent.com/100151463/161812223-652c6738-754f-4640-b2e2-a5dfe9727377.png)
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
 | [Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
-| [Кролик тушёный в духовке в сметане](https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke) | ![image](https://user-images.githubusercontent.com/100151463/193091254-2532ad51-bc1d-46cc-a366-154f15138edc.png)
 
 ### Продукты
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
