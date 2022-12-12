@@ -36,7 +36,7 @@
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
 | [Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
 | [Суп-пюре из красной чечевицы](https://www.povarenok.ru/recipes/show/56488/) | ![image](https://user-images.githubusercontent.com/100151463/205105719-9925e2f2-1cca-4f5b-8133-c9cc2ab4a1c2.png)
-
+| [Омлет](https://youtu.be/j_sNgbA5Bfc) | 
 
 ### Продукты
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
