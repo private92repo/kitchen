@@ -29,7 +29,8 @@
 | [❌ Кальмары фаршированные](https://www.russianfood.com/recipes/recipe.php?rid=149539) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025528-a0b56270-c10a-4272-b459-3af15f906bfd.png"></img>
 | [❌ Кролик тушёный в духовке в сметане](https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke) | ![image](https://user-images.githubusercontent.com/100151463/193091254-2532ad51-bc1d-46cc-a366-154f15138edc.png)
 | [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
-| [❌ (вроде как) Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
+| [❌ БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII) | ![image](https://user-images.githubusercontent.com/100151463/210095490-f0efb8fb-dd94-445b-a277-31c1fd52be5b.png)
+| [❌ Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
 | [Чечевичный суп с квашеной капустой и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=160812) | ![image](https://user-images.githubusercontent.com/100151463/162277774-6ea1085a-ac02-4f30-8503-7f392a811ed1.png)
 | [Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
@@ -38,7 +39,6 @@
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
 | [Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
 | [Суп-пюре из красной чечевицы](https://www.povarenok.ru/recipes/show/56488/) | ![image](https://user-images.githubusercontent.com/100151463/205105719-9925e2f2-1cca-4f5b-8133-c9cc2ab4a1c2.png)
-| [БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII) | ![image](https://user-images.githubusercontent.com/100151463/210095490-f0efb8fb-dd94-445b-a277-31c1fd52be5b.png)
 
 
 ### Продукты
