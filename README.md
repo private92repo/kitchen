@@ -6,7 +6,7 @@
 ### Рецепты
 | Рецепт | Фотка |
 | -------------- | ---- |
-| [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md) | |
+| [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md) | | ![image](https://user-images.githubusercontent.com/100151463/210095614-96035498-05b6-4a7a-92cd-41241a3e7f30.png)
 | [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://www.say7.info/cook/recipe/852-Kotletyi-kurinyim.html) | ![image](https://user-images.githubusercontent.com/100151463/160600850-6c3c7a5c-ac6a-4a09-a102-b066ccee95ad.png) |
 | [✔ Котлеты Пожарские](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/)) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154995556-f8e8b3e3-cc10-46ae-9a81-467514a7c34c.png"></img> <img width="15%" src="https://user-images.githubusercontent.com/100151463/154995549-89faa18e-e799-4000-afa4-2fd92e0ec1d7.png"></img>
 | [✔ Равиоли с сыром](https://grandkulinar.ru/14570-ravioli-s-syrom-v-rozovom-souse.html) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996593-9ba517fb-75bf-482b-a35c-2c861e6ad06f.png"></img>
