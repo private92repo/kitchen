@@ -37,6 +37,8 @@
 | [Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
 | [Суп-пюре из красной чечевицы](https://www.povarenok.ru/recipes/show/56488/) | ![image](https://user-images.githubusercontent.com/100151463/205105719-9925e2f2-1cca-4f5b-8133-c9cc2ab4a1c2.png)
 | [Омлет](https://youtu.be/j_sNgbA5Bfc) | 
+| [БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII) | ![image](https://user-images.githubusercontent.com/100151463/210095490-f0efb8fb-dd94-445b-a277-31c1fd52be5b.png)
+
 
 ### Продукты
 | [🍫 Шоколад](https://edadeal.ru/moskva/offers?retailer=5ka&retailer=avoska&retailer=dixy&retailer=magnit-univer&retailer=perekrestok&search=%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%20%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9) | [🧀 Сыр](https://edadeal.ru/moskva/offers?search=oltermanni) |
