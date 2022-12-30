@@ -14,6 +14,7 @@
 | [✔ Куриные наггетсы в духовке](https://1000.menu/cooking/25647-naggetsy-domashnie-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025428-39eb78e9-83bd-4c88-96d1-55b75da9ef6c.png"></img>
 | [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025485-180d1491-5137-44ea-89a6-d56c5ec7df4c.png"></img> |
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
+| [✔ Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
 | [✔ Омлет](https://youtu.be/j_sNgbA5Bfc) | ![image](https://user-images.githubusercontent.com/100151463/210095528-fc96d44d-6476-464c-9718-c8bd86de3493.png)
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
 | [✔ Гречневый суп](https://tvoirecepty.ru/recept/grechnevyi-sup-v-multivarke) | ![image](https://user-images.githubusercontent.com/100151463/170494939-482c90f4-9c70-4536-b2d0-046381617a46.png)
@@ -32,7 +33,6 @@
 | [Чечевичный суп с квашеной капустой и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=160812) | ![image](https://user-images.githubusercontent.com/100151463/162277774-6ea1085a-ac02-4f30-8503-7f392a811ed1.png)
 | [Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
-| [Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
 | [Итальянский густой фасолевый суп](https://gotovim-doma.ru/recipe/1766-italyanskiy-gustoy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161812178-fc06818c-f904-4478-a4d0-c9ad789e16e8.png)
 | [Мексиканский пряный суп с курицей](https://gotovim-doma.ru/recipe/1910-meksikanskiy-pryanyy-sup-s-kuritsey) | ![image](https://user-images.githubusercontent.com/100151463/161812223-652c6738-754f-4640-b2e2-a5dfe9727377.png)
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
