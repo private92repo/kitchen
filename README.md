@@ -37,7 +37,7 @@
 | [Итальянский густой фасолевый суп](https://gotovim-doma.ru/recipe/1766-italyanskiy-gustoy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161812178-fc06818c-f904-4478-a4d0-c9ad789e16e8.png)
 | [Мексиканский пряный суп с курицей](https://gotovim-doma.ru/recipe/1910-meksikanskiy-pryanyy-sup-s-kuritsey) | ![image](https://user-images.githubusercontent.com/100151463/161812223-652c6738-754f-4640-b2e2-a5dfe9727377.png)
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
-| [Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
+| [❓ Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
 | [Суп-пюре из красной чечевицы](https://www.povarenok.ru/recipes/show/56488/) | ![image](https://user-images.githubusercontent.com/100151463/205105719-9925e2f2-1cca-4f5b-8133-c9cc2ab4a1c2.png)
 
 
