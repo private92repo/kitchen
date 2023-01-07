@@ -3,7 +3,7 @@
 - В пакете - 50 минут
 - Разрезать пакет - 20 минут
 
-### Рецепты
+### 2 блюда
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md) | ![image](https://user-images.githubusercontent.com/100151463/210095614-96035498-05b6-4a7a-92cd-41241a3e7f30.png)
@@ -16,6 +16,11 @@
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
 | [✔ Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
 | [✔ Омлет](https://youtu.be/j_sNgbA5Bfc) | ![image](https://user-images.githubusercontent.com/100151463/210095528-fc96d44d-6476-464c-9718-c8bd86de3493.png)
+
+
+### 2 блюда
+| Рецепт | Фотка |
+| -------------- | ---- |
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
 | [✔ Гречневый суп](https://tvoirecepty.ru/recept/grechnevyi-sup-v-multivarke) | ![image](https://user-images.githubusercontent.com/100151463/170494939-482c90f4-9c70-4536-b2d0-046381617a46.png)
 | [✔ Харчо](https://www.russianfood.com/recipes/recipe.php?rid=120692) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/155842805-b0a74123-ea50-4323-bbdc-cd4a07846fcf.png"></img> |
