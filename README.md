@@ -18,7 +18,7 @@
 | [✔ Омлет](https://youtu.be/j_sNgbA5Bfc) | ![image](https://user-images.githubusercontent.com/100151463/210095528-fc96d44d-6476-464c-9718-c8bd86de3493.png)
 
 
-### 2 блюда
+### 1 блюда
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
