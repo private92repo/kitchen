@@ -3,6 +3,13 @@
 - В пакете - 50 минут
 - Разрезать пакет - 20 минут
 
+### Завтрак
+| Рецепт | Фотка |
+| -------------- | ---- |
+| [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025485-180d1491-5137-44ea-89a6-d56c5ec7df4c.png"></img> |
+| [✔ Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
+| [✔ Омлет](https://youtu.be/j_sNgbA5Bfc) | ![image](https://user-images.githubusercontent.com/100151463/210095528-fc96d44d-6476-464c-9718-c8bd86de3493.png)
+
 ### 2 блюда
 | Рецепт | Фотка |
 | -------------- | ---- |
@@ -12,10 +19,7 @@
 | [✔ Равиоли с сыром](https://grandkulinar.ru/14570-ravioli-s-syrom-v-rozovom-souse.html) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996593-9ba517fb-75bf-482b-a35c-2c861e6ad06f.png"></img>
 | [✔ Брускетта](https://eda.ru/recepty/zakuski/brusketta-s-pomidorami-29566) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025353-2a4288ae-2d50-4be8-9da7-fa25ad404669.png"></img> |
 | [✔ Куриные наггетсы в духовке](https://1000.menu/cooking/25647-naggetsy-domashnie-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025428-39eb78e9-83bd-4c88-96d1-55b75da9ef6c.png"></img>
-| [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025485-180d1491-5137-44ea-89a6-d56c5ec7df4c.png"></img> |
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
-| [✔ Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke) | ![image](https://user-images.githubusercontent.com/100151463/161425494-d294483b-19e7-4a18-a944-310dcd4ce867.png)
-| [✔ Омлет](https://youtu.be/j_sNgbA5Bfc) | ![image](https://user-images.githubusercontent.com/100151463/210095528-fc96d44d-6476-464c-9718-c8bd86de3493.png)
 
 
 ### 1 блюда
