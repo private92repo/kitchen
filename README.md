@@ -6,6 +6,8 @@
 ### Другое
 | Рецепт | Фотка |
 | -------------- | ---- |
+| [Лимонад](https://prostorecepty.com/7959-domashnij-limonad-iz-limonov-apelsinov-i-lajma.html) | ![image](https://user-images.githubusercontent.com/100151463/212552608-47738a92-c758-40df-a627-2b20ab8213c8.png)
+
 
 ### Завтрак
 | Рецепт | Фотка |
