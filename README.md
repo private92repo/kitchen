@@ -6,7 +6,7 @@
 ### Другое
 | Рецепт | Фотка |
 | -------------- | ---- |
-| [🍋 Лимонад](https://prostorecepty.com/7959-domashnij-limonad-iz-limonov-apelsinov-i-lajma.html) | ![image](https://user-images.githubusercontent.com/100151463/212552626-75d17ae8-7bf8-48c9-84ec-097fc7afae02.png)
+| [🍋 Лимонад](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md) | ![image](https://user-images.githubusercontent.com/100151463/212552626-75d17ae8-7bf8-48c9-84ec-097fc7afae02.png)
 
 
 
