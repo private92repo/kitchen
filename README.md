@@ -55,7 +55,7 @@
 | [Мексиканский пряный суп с курицей](https://gotovim-doma.ru/recipe/1910-meksikanskiy-pryanyy-sup-s-kuritsey) | ![image](https://user-images.githubusercontent.com/100151463/161812223-652c6738-754f-4640-b2e2-a5dfe9727377.png)
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
 | [❓ Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
-| [Суп-пюре из красной чечевицы](https://www.povarenok.ru/recipes/show/56488/) | ![image](https://user-images.githubusercontent.com/100151463/205105719-9925e2f2-1cca-4f5b-8133-c9cc2ab4a1c2.png)
+| [Суп-пюре из красной чечевицы](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF-%D0%BF%D1%8E%D1%80%D0%B5%20%D0%B8%D0%B7%20%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9%20%D1%87%D0%B5%D1%87%D0%B5%D0%B2%D0%B8%D1%86%D1%8B.md) | ![image](https://user-images.githubusercontent.com/100151463/205105719-9925e2f2-1cca-4f5b-8133-c9cc2ab4a1c2.png)
 
 
 ### Продукты
