@@ -31,7 +31,7 @@
 
 ### [✔ Котлеты Пожарские (40 минут)](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/))
 
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md"> <img width="30%" src="https://i.imgur.com/o1KcXf9.png"></a> <img width="30%" src="https://i.imgur.com/7ILZ4w7.png"></a>
+<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md"> <img width="30%" src="https://i.imgur.com/o1KcXf9.png"></a> <img width="15%" src="https://i.imgur.com/7ILZ4w7.png"></a>
 
 | Рецепт | Фотка |
 | -------------- | ---- |
