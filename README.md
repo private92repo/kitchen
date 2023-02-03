@@ -3,14 +3,12 @@
 - В пакете - 50 минут
 - Разрезать пакет - 20 минут
 
-### Другое
-| Рецепт | Фотка |
-| -------------- | ---- |
-| [🍋 Лимонад](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md) | ![image](https://user-images.githubusercontent.com/100151463/212552626-75d17ae8-7bf8-48c9-84ec-097fc7afae02.png)
+## Другое
+### [🍋 Лимонад](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md)
 
+<img width="50%" src="https://user-images.githubusercontent.com/100151463/212552626-75d17ae8-7bf8-48c9-84ec-097fc7afae02.png"></img>
 
-
-### Завтрак
+## Завтрак
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025485-180d1491-5137-44ea-89a6-d56c5ec7df4c.png"></img> |
@@ -18,7 +16,7 @@
 | [✔ Омлет](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9E%D0%BC%D0%BB%D0%B5%D1%82.md) | ![image](https://user-images.githubusercontent.com/100151463/210095528-fc96d44d-6476-464c-9718-c8bd86de3493.png)
 
 
-### 2 блюда
+## 2 блюда
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md) | ![image](https://user-images.githubusercontent.com/100151463/210095614-96035498-05b6-4a7a-92cd-41241a3e7f30.png)
@@ -32,7 +30,7 @@
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
 
 
-### 1 блюда
+## 1 блюда
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
