@@ -50,11 +50,11 @@
 | [❌ БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII) | ![image](https://user-images.githubusercontent.com/100151463/210095490-f0efb8fb-dd94-445b-a277-31c1fd52be5b.png)
 | [❌ Свекольный крем-суп](https://gotovim-doma.ru/recipe/3371-svekolnyy-krem-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425398-f1b4eb20-cc8a-43c7-a051-af035e6a3b75.png)
 | [Чечевичный суп с квашеной капустой и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=160812) | ![image](https://user-images.githubusercontent.com/100151463/162277774-6ea1085a-ac02-4f30-8503-7f392a811ed1.png)
-| [💀 Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [Фруктовые супы](https://gotovim-doma.ru/category/127-fruktovyye-supy-desertnyye) | ![image](https://user-images.githubusercontent.com/100151463/161424953-56a956dc-bac0-4508-b883-6174e15307f2.png)
 | [Итальянский густой фасолевый суп](https://gotovim-doma.ru/recipe/1766-italyanskiy-gustoy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161812178-fc06818c-f904-4478-a4d0-c9ad789e16e8.png)
 | [Мексиканский пряный суп с курицей](https://gotovim-doma.ru/recipe/1910-meksikanskiy-pryanyy-sup-s-kuritsey) | ![image](https://user-images.githubusercontent.com/100151463/161812223-652c6738-754f-4640-b2e2-a5dfe9727377.png)
 | [Армянский густой суп " Почов апур"](https://gotovim-doma.ru/recipe/16128-armyanskiy-gustoy-sup-pochov-apur) | ![image](https://user-images.githubusercontent.com/100151463/161812272-23eb89ef-db20-4135-ad70-d5191208116e.png)
+| [❓ Простой и быстрый суп минестроне](https://grandkulinar.ru/14822-prostoy-i-bystryy-sup-minestrone.html) | ![image](https://user-images.githubusercontent.com/100151463/161424636-91fdcee7-99e9-4553-a754-e8ad8ae2276d.png)
 | [❓ Мексиканский суп](https://eda.ru/recepty/supy/meksikanskij-sup-27856) | ![image](https://user-images.githubusercontent.com/100151463/161812373-903576ad-8c8e-41de-90b6-f46c2f19b282.png)
 
 
