@@ -8,7 +8,7 @@
 
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
 
-## Завтрак
+## 🌞 Завтрак
 ### [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978)
 
 <a href="https://www.russianfood.com/recipes/recipe.php?rid=132978"> <img width="30%" src="https://i.imgur.com/ltFnemA.png"></a>
@@ -22,7 +22,7 @@
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9E%D0%BC%D0%BB%D0%B5%D1%82.md"> <img width="30%" src="https://i.imgur.com/buRtBgd.png"></a>
 
 
-## 2 блюда
+## 🌛 2 блюда
 ### [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md)
 
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md"> <img width="30%" src="https://i.imgur.com/Rczrm2U.png"></a>
@@ -42,7 +42,7 @@
 | [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></img> |
 
 
-## 1 блюда
+## 🍲 1 блюда
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут)](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537) | ![image](https://user-images.githubusercontent.com/100151463/161425253-8f6b7e3f-c9ef-4de3-b0a5-a40cc527248d.png)
