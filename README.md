@@ -26,28 +26,23 @@
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md"> <img width="30%" src="https://i.imgur.com/Rczrm2U.png"></a>
 
 ### [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%C2%AB%D0%9F%D0%BE-%D0%9F%D0%B5%D1%82%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%C2%BB%20%D1%81%D0%BE%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.md)
-
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%C2%AB%D0%9F%D0%BE-%D0%9F%D0%B5%D1%82%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%C2%BB%20%D1%81%D0%BE%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.md"> <img width="30%" src="https://i.imgur.com/WYvDBmi.png"></a>
 
 ### [✔ Котлеты Пожарские (40 минут)](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/))
-
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md"> <img width="30%" src="https://i.imgur.com/o1KcXf9.png"></a>
 
 ### [✔ Скалопини из курицы с шалфеем и сыром фонтина](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BA%D0%B0%D0%BB%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B%20%D1%81%20%D1%88%D0%B0%D0%BB%D1%84%D0%B5%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%D1%84%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B0.md)
-
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BA%D0%B0%D0%BB%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B%20%D1%81%20%D1%88%D0%B0%D0%BB%D1%84%D0%B5%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%D1%84%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B0.md"> <img width="30%" src="https://i.imgur.com/jrUuOkW.png"></a>
 
 ### [✔ Латкес (остро)](https://grandkulinar.ru/11728-klassicheskie-latkes.html)
-
 <a href="https://grandkulinar.ru/11728-klassicheskie-latkes.html"> <img width="30%" src="https://grandkulinar.ru/uploads/posts/2019-12/1576250122_klassicheskie-latkes.jpg"></a>
 
 ### [Куриные котлеты с начинкой из томатного масла](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%D1%81%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%B7%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B0.md)
-
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%D1%81%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%B7%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B0.md"> <img width="30%" src="https://i.imgur.com/yZacTDU.png"></a>
 
 ### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/BakedPollockTomat.md)
-
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
+
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [✔ Равиоли с сыром](https://grandkulinar.ru/14570-ravioli-s-syrom-v-rozovom-souse.html) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996593-9ba517fb-75bf-482b-a35c-2c861e6ad06f.png"></img>
