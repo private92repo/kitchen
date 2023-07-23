@@ -63,7 +63,7 @@
 | [❌ Кролик тушёный в духовке в сметане](https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke) | ![image](https://user-images.githubusercontent.com/100151463/193091254-2532ad51-bc1d-46cc-a366-154f15138edc.png)
 | [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
 | [❌ БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII) | ![image](https://user-images.githubusercontent.com/100151463/210095490-f0efb8fb-dd94-445b-a277-31c1fd52be5b.png)
-| [❌ Котлеты из капусты](https://www.russianfood.com/recipes/recipe.php?rid=15150) | ![image](https://img1.russianfood.com/dycontent/images_upl/180/big_179552.jpg)
+| [❌ Котлеты из капусты](https://github.com/private92repo/kitchen/blob/main/recipes/Cabbage%D0%A1utlets.md) | ![image](https://img1.russianfood.com/dycontent/images_upl/180/big_179552.jpg)
 
 ## 🍲 1 блюда
 ### [✔ Суп-Пюре из шампиньонов](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF%20%D0%B8%D0%B7%20%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2.md)
