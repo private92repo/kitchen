@@ -41,8 +41,8 @@
 
 Подавать блюдо лучше всего с отварным картофелем или вермишелью.
 
+![image](https://github.com/private92repo/kitchen/assets/87380272/c5cd03df-02be-4af6-b049-40df33927b98)
+
 https://www.russianfood.com/recipes/recipe.php?rid=157510
 <br>
 https://rutxt.ru/node/13581
-
-![image](https://github.com/private92repo/kitchen/assets/87380272/c5cd03df-02be-4af6-b049-40df33927b98)
