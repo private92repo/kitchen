@@ -57,6 +57,9 @@
 
 https://www.google.com/search?q=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B+%D1%81+%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%D0%BC%D0%B8&oq=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%B0+%D1%81+%D0%BA%D1%80%D0%B5&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhge0gEIODg2M2owajGoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8&hl=en
 
+### [✔ Корден Блю](https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md"> <img width="30%" src="https://i.imgur.com/iwZfvWr.png"></a>
+
 | Рецепт | Фотка |
 | -------------- | ---- |
 | [❌ Свинина в кляре, запеченная в духовке под сыром (эскалопы)](https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158024967-a6767fc3-8ce6-4f82-bc3c-2e7f12427318.png"></img> |
