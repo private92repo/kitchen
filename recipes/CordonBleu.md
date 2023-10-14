@@ -49,3 +49,4 @@
 
 ![image](https://github.com/private92repo/kitchen/assets/87380272/b8d2e063-d853-419c-89ff-5e58aeb098d0)
 
+https://delo-vcusa.ru/recept/kordon-blyu-iz-kuritsy-s-vetchinoj-i-syrom/
