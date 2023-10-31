@@ -3,8 +3,10 @@
 
 ## Другое
 ### [✔ Лимонад](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md)
-
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
+
+### [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik)
+<a href="https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke"> <img width="30%" src="https://i.imgur.com/f537niN.png"></a>
 
 ## 🌞 Завтрак
 ### [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978)
@@ -58,17 +60,25 @@
 ### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/BakedPollockTomat.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
 
-### [Котлеты с креветками](https://www.google.com/search?q=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B+%D1%81+%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%D0%BC%D0%B8&oq=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%B0+%D1%81+%D0%BA%D1%80%D0%B5&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhge0gEIODg2M2owajGoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8&hl=en)
+### [❌ Свинина в кляре, запеченная в духовке под сыром (эскалопы)](https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom)
+<a href="https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom"> <img width="30%" src="https://i.imgur.com/b8GZfHe.png"></a>
 
-| Рецепт | Фотка |
-| -------------- | ---- |
-| [❌ Свинина в кляре, запеченная в духовке под сыром (эскалопы)](https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158024967-a6767fc3-8ce6-4f82-bc3c-2e7f12427318.png"></img> |
-| [❌ Сосиски запеченных с сыром](https://www.1001eda.com/cosiski-zapechennye-s-syrom-recept-s-poshagovym-foto) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025157-83beae85-be3c-4cee-bd1a-b35909fb683f.png"></img>
-| [❌ Кальмары фаршированные](https://www.russianfood.com/recipes/recipe.php?rid=149539) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/158025528-a0b56270-c10a-4272-b459-3af15f906bfd.png"></img>
-| [❌ Кролик тушёный в духовке в сметане](https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke) | ![image](https://user-images.githubusercontent.com/100151463/193091254-2532ad51-bc1d-46cc-a366-154f15138edc.png)
-| [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik) | <img width="70%" src="https://user-images.githubusercontent.com/100151463/154996874-92723c8f-8b4b-424b-b8e6-71f050e2ef18.png"></img>
-| [❌ БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII) | ![image](https://user-images.githubusercontent.com/100151463/210095490-f0efb8fb-dd94-445b-a277-31c1fd52be5b.png)
-| [❌ Котлеты из капусты](https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md) | ![image](https://img1.russianfood.com/dycontent/images_upl/180/big_179552.jpg)
+### [❌ Сосиски запеченных с сыром](https://www.1001eda.com/cosiski-zapechennye-s-syrom-recept-s-poshagovym-foto)
+<a href="https://www.1001eda.com/cosiski-zapechennye-s-syrom-recept-s-poshagovym-foto"> <img width="30%" src="https://i.imgur.com/MfI8i50.png"></a>
+
+### [❌ Кальмары фаршированные](https://www.russianfood.com/recipes/recipe.php?rid=149539)
+<a href="https://www.russianfood.com/recipes/recipe.php?rid=149539"> <img width="30%" src="https://i.imgur.com/yvdF7bQ.png"></a>
+
+### [❌ Кролик тушёный в духовке в сметане](https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke)
+<a href="https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke"> <img width="30%" src="https://i.imgur.com/SxpQENR.png"></a>
+
+### [❌ БЫСТРЫЙ ХОЛОДЕЦ ИЗ КУРИЦЫ](https://www.youtube.com/watch?v=X7M3W3rkEII)
+<a href="https://www.youtube.com/watch?v=X7M3W3rkEII"> <img width="30%" src="https://i.imgur.com/plpViLk.png"></a>
+
+### [❌ Котлеты из капусты](https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md"> <img width="30%" src="https://i.imgur.com/1XTbFQi.png"></a>
+
+### [Котлеты с креветками](https://www.google.com/search?q=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B+%D1%81+%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%D0%BC%D0%B8&oq=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%B0+%D1%81+%D0%BA%D1%80%D0%B5&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhge0gEIODg2M2owajGoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8&hl=en)
 
 ## 🍲 1 блюда
 ### Суп-Пюре овощной (всё и сразу)
