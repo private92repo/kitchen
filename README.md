@@ -98,12 +98,16 @@
 ### [✔ Харчо](https://www.russianfood.com/recipes/recipe.php?rid=120692)
 <a href="https://www.russianfood.com/recipes/recipe.php?rid=120692"> <img width="30%" src="https://i.imgur.com/Etg6paI.png"></a>
 
+### [✔ Ленивый фасолевый суп](https://gotovim-doma.ru/recipe/3009-lenivyy-fasolevyy-sup)
+<a href="https://gotovim-doma.ru/recipe/3009-lenivyy-fasolevyy-sup"> <img width="30%" src="https://i.imgur.com/UOiUEOv.png"></a>
+
+### [✔ Суп с рисом и болгарским перцем](https://github.com/kitchen92/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF%20%D1%81%20%D1%80%D0%B8%D1%81%D0%BE%D0%BC%20%D0%B8%20%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC.md)
+<a href="https://github.com/kitchen92/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF%20%D1%81%20%D1%80%D0%B8%D1%81%D0%BE%D0%BC%20%D0%B8%20%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC.md"> <img width="30%" src="https://i.imgur.com/0oDTe5E.png"></a>
+
 ### Суп-Пюре белый гриб
 
 | Рецепт | Фотка |
 | -------------- | ---- |
-| [✔ Ленивый фасолевый суп](https://gotovim-doma.ru/recipe/3009-lenivyy-fasolevyy-sup) | ![image](https://user-images.githubusercontent.com/100151463/161425549-c01800ed-93f5-4ee1-be5f-4644d29bc019.png)
-| [✔ Суп с рисом и болгарским перцем](https://github.com/kitchen92/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF%20%D1%81%20%D1%80%D0%B8%D1%81%D0%BE%D0%BC%20%D0%B8%20%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC.md) | ![image](https://user-images.githubusercontent.com/100151463/161812025-a3ffc499-724b-46b7-bdfe-5b4ce2fbef24.png)
 | [✔ Гаспачо](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%93%D0%B0%D1%81%D0%BF%D0%B0%D1%87%D0%BE.md) | ![image](https://user-images.githubusercontent.com/100151463/161424812-34fdf895-d6c9-4200-98b0-f494e9788686.png)
 | [✔ Суп-Пюре брокколи 🥦](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D1%80%D0%B5%D0%BC-%D1%81%D1%83%D0%BF%20%D0%B8%D0%B7%20%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D0%BA.md) | ![image](https://user-images.githubusercontent.com/100151463/161424687-01b99612-ac56-4ccd-8801-97dda53abe45.png)
 | [✔ Гороховый суп с колбасой и томатной зажаркой](https://lefood.menu/recipes/gorohovyy-sup-s-kolbasoy-i-tomatnoy-zazharkoy/) | ![image](https://user-images.githubusercontent.com/100151463/210095759-e5574977-5861-42dc-a2ce-88d8ef7f7568.png)
