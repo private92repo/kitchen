@@ -89,8 +89,10 @@
 ### [✔ Суп-Пюре из шампиньонов](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF%20%D0%B8%D0%B7%20%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D1%83%D0%BF%20%D0%B8%D0%B7%20%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2.md"> <img width="30%" src="https://i.imgur.com/3wc6ZTz.png"></a>
 
-### [✔ Крем-суп из кабачков и шпината](https://github.com/private92repo/kitchen/blob/main/recipes/SoupZucchiniSpinach.md.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/SoupZucchiniSpinach.md.md"> <img width="30%" src="https://i.imgur.com/fN5UuL6.png"></a>
+### [✔ Крем-суп из кабачков и шпината](https://github.com/private92repo/kitchen/blob/main/recipes/SoupZucchiniSpinach.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/SoupZucchiniSpinach.md"> <img width="30%" src="https://i.imgur.com/fN5UuL6.png"></a>
+
+### Суп-Пюре белый гриб
 
 | Рецепт | Фотка |
 | -------------- | ---- |
