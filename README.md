@@ -80,6 +80,8 @@
 
 ### [Котлеты с креветками](https://www.google.com/search?q=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B+%D1%81+%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%D0%BC%D0%B8&oq=%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%B0+%D1%81+%D0%BA%D1%80%D0%B5&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhge0gEIODg2M2owajGoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8&hl=en)
 
+### [Курица запечённая с картошкой](https://tools.apgy.in/ytl/86HjqufIDeTX_wW)
+
 ## 🍲 1 блюда
 ### [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537)
 <a href="https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537"> <img width="30%" src="https://i.imgur.com/rzk2h7V.png"></a>
