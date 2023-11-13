@@ -59,8 +59,8 @@ https://www.dishdragon.ai/browse
 ### [✔ Корден Блю](https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md"> <img width="30%" src="https://i.imgur.com/iwZfvWr.png"></a>
 
-### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/BakedPollockTomat.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
+### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
 
 ### [❌ Свинина в кляре, запеченная в духовке под сыром (эскалопы)](https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom)
 <a href="https://www.edimdoma.ru/retsepty/46072-svinina-v-klyare-zapechennaya-v-duhovke-pod-syrom"> <img width="30%" src="https://i.imgur.com/b8GZfHe.png"></a>
