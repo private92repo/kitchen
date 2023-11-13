@@ -30,8 +30,8 @@ https://www.dishdragon.ai/browse
 ### [✔ Котлеты Пожарские (40 минут)](https://github.com/private92repo/kitchen/blob/main/recipes/PozharskyCutlets.md) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/))
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/PozharskyCutlets.md"> <img width="30%" src="https://i.imgur.com/o1KcXf9.png"></a>
 
-### [✔ Скалопини из курицы с шалфеем и сыром фонтина](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BA%D0%B0%D0%BB%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B%20%D1%81%20%D1%88%D0%B0%D0%BB%D1%84%D0%B5%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%D1%84%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B0.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BA%D0%B0%D0%BB%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B%20%D1%81%20%D1%88%D0%B0%D0%BB%D1%84%D0%B5%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%D1%84%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B0.md"> <img width="30%" src="https://i.imgur.com/jrUuOkW.png"></a>
+### [✔ Скалопини из курицы с шалфеем и сыром фонтина](https://github.com/private92repo/kitchen/blob/main/recipes/Scallopini.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Scallopini.md"> <img width="30%" src="https://i.imgur.com/jrUuOkW.png"></a>
 
 ### [✔ Латкес (остро)](https://grandkulinar.ru/11728-klassicheskie-latkes.html)
 <a href="https://grandkulinar.ru/11728-klassicheskie-latkes.html"> <img width="30%" src="https://grandkulinar.ru/uploads/posts/2019-12/1576250122_klassicheskie-latkes.jpg"></a>
