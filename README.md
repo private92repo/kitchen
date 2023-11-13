@@ -83,6 +83,8 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 
 ### [Корн доги](https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste)
 
+### [Пельмени](https://1000.menu/cooking/42853-pelmeni-domashnie-klassicheskie)
+
 ## 🍲 1 блюда
 ### [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537)
 <a href="https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537"> <img width="30%" src="https://i.imgur.com/rzk2h7V.png"></a>
