@@ -4,8 +4,8 @@ https://www.dishdragon.ai/browse
 В пакете - 50 минут | Разрезать пакет - 20 минут
 
 ## Другое
-### [✔ Лимонад](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4.md"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
+### [✔ Лимонад](https://github.com/private92repo/kitchen/blob/main/recipes/Lemonade.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Lemonade.md"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
 
 ### [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik)
 <a href="https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke"> <img width="30%" src="https://i.imgur.com/f537niN.png"></a>
