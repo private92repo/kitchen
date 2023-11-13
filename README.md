@@ -77,8 +77,6 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 ### [❌ Котлеты из капусты](https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md"> <img width="30%" src="https://i.imgur.com/1XTbFQi.png"></a>
 
-### Котлеты с креветками
-
 ### [Курица запечённая с картошкой](https://tools.apgy.in/ytl/4W0cdHgdLPg)
 
 ### [Тельное](https://volshebnaya-eda.ru/kollekcia-receptov/telnoe)
