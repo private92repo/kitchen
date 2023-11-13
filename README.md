@@ -79,6 +79,8 @@ https://www.dishdragon.ai/browse
 
 ### [Курица запечённая с картошкой](https://tools.apgy.in/ytl/4W0cdHgdLPg)
 
+### [Тельное](https://volshebnaya-eda.ru/kollekcia-receptov/telnoe)
+
 ## 🍲 1 блюда
 ### [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537)
 <a href="https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537"> <img width="30%" src="https://i.imgur.com/rzk2h7V.png"></a>
