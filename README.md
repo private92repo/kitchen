@@ -12,21 +12,17 @@ https://www.dishdragon.ai/browse
 
 ## 🌞 Завтрак
 ### [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978)
-
 <a href="https://www.russianfood.com/recipes/recipe.php?rid=132978"> <img width="30%" src="https://i.imgur.com/ltFnemA.png"></a>
 
 ### [✔ Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke)
-
 <a href="https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke"> <img width="30%" src="https://i.imgur.com/vgKe9tk.png"></a>
 
 ### [✔ Омлет](https://github.com/private92repo/kitchen/blob/main/recipes/Omelette.md)
-
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Omelette.md"> <img width="30%" src="https://i.imgur.com/buRtBgd.png"></a>
 
 ## 🌛 2 блюда
-### [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md)
-
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md"> <img width="30%" src="https://i.imgur.com/Rczrm2U.png"></a>
+### [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/recipes/SausageDough.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/SausageDough.md"> <img width="30%" src="https://i.imgur.com/Rczrm2U.png"></a>
 
 ### [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md"> <img width="30%" src="https://i.imgur.com/WYvDBmi.png"></a>
