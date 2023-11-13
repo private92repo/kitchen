@@ -29,8 +29,8 @@ https://www.dishdragon.ai/browse
 
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%D0%92%D0%A2%D0%B5%D1%81%D1%82%D0%B5.md"> <img width="30%" src="https://i.imgur.com/Rczrm2U.png"></a>
 
-### [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%C2%AB%D0%9F%D0%BE-%D0%9F%D0%B5%D1%82%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%C2%BB%20%D1%81%D0%BE%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%C2%AB%D0%9F%D0%BE-%D0%9F%D0%B5%D1%82%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%C2%BB%20%D1%81%D0%BE%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.md"> <img width="30%" src="https://i.imgur.com/WYvDBmi.png"></a>
+### [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md"> <img width="30%" src="https://i.imgur.com/WYvDBmi.png"></a>
 
 ### [✔ Котлеты Пожарские (40 минут)](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/))
 <a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5.md"> <img width="30%" src="https://i.imgur.com/o1KcXf9.png"></a>
