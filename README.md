@@ -56,6 +56,8 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 ### [✔ Корден Блю](https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md"> <img width="30%" src="https://i.imgur.com/iwZfvWr.png"></a>
 
+### [✔ Курица запечённая с картошкой](https://tools.apgy.in/ytl/4W0cdHgdLPg)
+
 ### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
 
@@ -76,8 +78,6 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 
 ### [❌ Котлеты из капусты](https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md"> <img width="30%" src="https://i.imgur.com/1XTbFQi.png"></a>
-
-### [Курица запечённая с картошкой](https://tools.apgy.in/ytl/4W0cdHgdLPg)
 
 ### [Тельное](https://volshebnaya-eda.ru/kollekcia-receptov/telnoe)
 
