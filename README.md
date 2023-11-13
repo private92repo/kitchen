@@ -48,8 +48,8 @@ https://www.dishdragon.ai/browse
 ### [✔ Котлеты из мясного фарша](https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke)
 <a href="https://1000.menu/cooking/29221-kotlety-iz-myasnogo-farsha-v-duxovke"> <img width="30%" src="https://user-images.githubusercontent.com/100151463/158025600-9a404ad2-3c0d-4a25-9cff-faf8fc79d28a.png"></a>
 
-### [✔ Куриные котлеты с начинкой из томатного масла](https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%D1%81%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%B7%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B0.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B%20%D1%81%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%B7%20%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%81%D0%BB%D0%B0.md"> <img width="30%" src="https://i.imgur.com/yZacTDU.png"></a>
+### [✔ Куриные котлеты с начинкой из томатного масла](https://github.com/private92repo/kitchen/blob/main/recipes/TomatoCutlets.md)
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/TomatoCutlets.md"> <img width="30%" src="https://i.imgur.com/yZacTDU.png"></a>
 
 ### [✔ Корден Блю](https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md"> <img width="30%" src="https://i.imgur.com/iwZfvWr.png"></a>
