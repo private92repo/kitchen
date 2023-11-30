@@ -114,10 +114,10 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 ### Суп-Пюре белый гриб
 
 ### [✔ Гаспачо](https://github.com/private92repo/kitchen/blob/main/recipes/Gazpacho.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Gazpacho"> <img width="30%" src="https://i.imgur.com/y5wcFsH.png"></a>
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Gazpacho.md"> <img width="30%" src="https://i.imgur.com/y5wcFsH.png"></a>
 
 ### [✔ Суп-Пюре брокколи 🥦](https://github.com/private92repo/kitchen/blob/main/recipes/SoupBroccoli.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Gazpacho"> <img width="30%" src="https://i.imgur.com/UpaKmiB.png"></a>
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/SoupBroccoli.md"> <img width="30%" src="https://i.imgur.com/UpaKmiB.png"></a>
 
 ### [✔ Гороховый суп с колбасой и томатной зажаркой](https://lefood.menu/recipes/gorohovyy-sup-s-kolbasoy-i-tomatnoy-zazharkoy)
 <a href="https://lefood.menu/recipes/gorohovyy-sup-s-kolbasoy-i-tomatnoy-zazharkoy"> <img width="30%" src="https://i.imgur.com/UbVLTLg.png"></a>
