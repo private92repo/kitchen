@@ -87,6 +87,8 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 
 ### [Пельмени](https://1000.menu/cooking/42853-pelmeni-domashnie-klassicheskie)
 
+### [Куриная грудка с йогуртом](https://www.youtube.com/watch?v=zze5Zw_jR6Y)
+
 ## 🍲 1 блюда
 ### [✔ Сухарики в духовке (Из чёрного: не хрустящие, тягучие и жёсткие, 20 минут Из белого: 10 минут](https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537)
 <a href="https://eda.ru/recepty/zakuski/suhariki-v-duhovke-31537"> <img width="30%" src="https://i.imgur.com/rzk2h7V.png"></a>
