@@ -5,7 +5,7 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 ### Свиные ребрышки в пакете
 В пакете - 50 минут | Разрезать пакет - 20 минут
 
-## Другое
+## 🎂 Десерты
 ### [✔ Лимонад](https://github.com/private92repo/kitchen/blob/main/recipes/Lemonade.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Lemonade.md"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
 
