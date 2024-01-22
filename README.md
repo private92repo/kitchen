@@ -85,6 +85,8 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 
 ### [Корн доги](https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste)
 
+### [Котлеты из сосисок и сыра](https://1000.menu/cooking/31604-kotlety-iz-sosisok-i-syra)
+
 ### [Пельмени](https://1000.menu/cooking/42853-pelmeni-domashnie-klassicheskie)
 
 ### [Куриная грудка с йогуртом](https://www.youtube.com/watch?v=zze5Zw_jR6Y)
