@@ -24,7 +24,7 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 ### [✔ Омлет](https://github.com/private92repo/kitchen/blob/main/recipes/Omelette.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Omelette.md"> <img width="30%" src="https://i.imgur.com/buRtBgd.png"></a>
 
-### [✔ Запеканка](https://www.youtube.com/watch?v=6bEdunMNn6w)
+### [✔ Запеканка](https://www.youtube.com/watch?v=6bEdunMNn6w) ([2 вариант](https://www.youtube.com/watch?v=JKibQrhHv-8))
 
 ## 🌛 2 блюда
 ### [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/recipes/SausageDough.md)
