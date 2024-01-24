@@ -62,6 +62,9 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 
 ### [✔ Курица запечённая с картошкой](https://tools.apgy.in/ytl/4W0cdHgdLPg)
 
+### [✔ Корн доги](https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste)
+<a href="https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste"> <img width="30%" src="https://i.imgur.com/Em1jdaE.png"></a>
+
 ### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
 
@@ -84,8 +87,6 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/CabbageCutlets.md"> <img width="30%" src="https://i.imgur.com/1XTbFQi.png"></a>
 
 ### [Тельное](https://volshebnaya-eda.ru/kollekcia-receptov/telnoe)
-
-### [Корн доги](https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste)
 
 ### [Котлеты из сосисок и сыра](https://1000.menu/cooking/31604-kotlety-iz-sosisok-i-syra)
 
