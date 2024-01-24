@@ -25,6 +25,9 @@ https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Omelette.md"> <img width="30%" src="https://i.imgur.com/buRtBgd.png"></a>
 
 ### [✔ Запеканка](https://www.youtube.com/watch?v=6bEdunMNn6w) ([2 вариант](https://www.youtube.com/watch?v=JKibQrhHv-8))
+55 минут, предварительно разогрета до 180
+
+<a href="https://github.com/private92repo/kitchen/blob/main/recipes/SausageDough.md"> <img width="30%" src="https://i.imgur.com/BJp2deY.png"></a>
 
 ## 🌛 2 блюда
 ### [✔ Сосиски в тесте](https://github.com/private92repo/kitchen/blob/main/recipes/SausageDough.md)
