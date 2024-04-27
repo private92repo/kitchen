@@ -64,6 +64,9 @@
 ### [✔ Корн доги](https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste)
 <a href="https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste"> <img width="30%" src="https://i.imgur.com/Em1jdaE.png"></a>
 
+### [✔ Сосиска в тесте с картошкой](https://1000.menu/cooking/24975-sosiska-v-teste-s-kartoshkoi)
+<a href="https://1000.menu/cooking/24975-sosiska-v-teste-s-kartoshkoi"> <img width="30%" src="https://i.imgur.com/rtkT51C.png"></a>
+
 ### [Запечённый минтай в томатном соусе с грибами и овощами](https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/BakedPollockTomat.md"> <img width="30%" src="https://i.imgur.com/pQhQUPI.png"></a>
 
