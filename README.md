@@ -1,7 +1,3 @@
-https://www.dishdragon.ai/browse
-<br>
-https://xn----8sbehgcimb3cfabqj3b.xn--p1ai/
-
 ### Свиные ребрышки в пакете
 В пакете - 50 минут | Разрезать пакет - 20 минут
 
