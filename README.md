@@ -2,8 +2,8 @@
 В пакете - 50 минут | Разрезать пакет - 20 минут
 
 ## 🎂 Десерты
-### [✔ Лимонад](https://github.com/private92repo/kitchen/blob/main/recipes/Lemonade.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Lemonade.md"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
+### [✔ Лимонад](https://kitchen93.vercel.app/lemonade)
+<a href="https://kitchen93.vercel.app/lemonade"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
 
 ### [✔ Шарлотка](https://github.com/private92repo/kitchen/blob/main/recipes/Charlotte.md)
 
