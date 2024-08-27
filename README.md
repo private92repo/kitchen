@@ -5,8 +5,6 @@
 ### [✔ Лимонад](https://kitchen93.vercel.app/lemonade)
 <a href="https://kitchen93.vercel.app/lemonade"> <img width="30%" src="https://i.imgur.com/jNz5qFz.png"></a>
 
-### [✔ Шарлотка](https://kitchen93.vercel.app/charlotte)
-
 ### [❌ Постный шоколадный манник](https://gotovim-doma.ru/recipe/1014-postnyi-shokoladnyi-mannik)
 <a href="https://1000.menu/cooking/53080-krolik-tushenyi-v-smetane-v-duxovke"> <img width="30%" src="https://i.imgur.com/f537niN.png"></a>
 
