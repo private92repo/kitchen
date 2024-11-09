@@ -2,9 +2,6 @@
 В пакете - 50 минут | Разрезать пакет - 20 минут
 
 ## 🌞 Завтрак
-### [✔ Блины дрожжевые](https://www.russianfood.com/recipes/recipe.php?rid=132978)
-<a href="https://www.russianfood.com/recipes/recipe.php?rid=132978"> <img width="30%" src="https://i.imgur.com/ltFnemA.png"></a>
-
 ### [✔ Сырники (35 минут)](https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke)
 <a href="https://gotovim-doma.ru/recipe/18861-syrniki-retsept-v-dukhovke"> <img width="30%" src="https://i.imgur.com/vgKe9tk.png"></a>
 
