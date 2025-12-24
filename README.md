@@ -44,9 +44,6 @@
 ### [✔ Куриные котлеты с начинкой из томатного масла](https://github.com/private92repo/kitchen/blob/main/recipes/TomatoCutlets.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/TomatoCutlets.md"> <img width="30%" src="https://i.imgur.com/yZacTDU.png"></a>
 
-### [✔ Корден Блю](https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/CordonBleu.md"> <img width="30%" src="https://i.imgur.com/iwZfvWr.png"></a>
-
 ### [✔ Курица запечённая с картошкой](https://tools.apgy.in/ytl/4W0cdHgdLPg)
 
 ### [✔ Корн доги](https://1000.menu/cooking/11773-korn-dog-sosiska-v-teste)
