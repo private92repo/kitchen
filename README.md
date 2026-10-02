@@ -20,9 +20,6 @@
 ### [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md"> <img width="30%" src="https://i.imgur.com/WYvDBmi.png"></a>
 
-### [✔ Котлеты Пожарские (40 минут)](https://github.com/private92repo/kitchen/blob/main/recipes/PozharskyCutlets.md) ([2 вариант](https://hozoboz.com/recepty/gotovim-pozharskie-kotlety-pravilnyj-klassicheskij-recept-s-foto/))
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/PozharskyCutlets.md"> <img width="30%" src="https://i.imgur.com/o1KcXf9.png"></a>
-
 ### [✔ Скалопини из курицы с шалфеем и сыром фонтина](https://github.com/private92repo/kitchen/blob/main/recipes/Scallopini.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Scallopini.md"> <img width="30%" src="https://i.imgur.com/jrUuOkW.png"></a>
 
