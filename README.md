@@ -20,9 +20,6 @@
 ### [✔ Котлеты «По-Петелински» со сладким перцем и сыром](https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md)
 <a href="https://github.com/private92repo/kitchen/blob/main/recipes/Petelinsky.md"> <img width="30%" src="https://i.imgur.com/WYvDBmi.png"></a>
 
-### [✔ Скалопини из курицы с шалфеем и сыром фонтина](https://github.com/private92repo/kitchen/blob/main/recipes/Scallopini.md)
-<a href="https://github.com/private92repo/kitchen/blob/main/recipes/Scallopini.md"> <img width="30%" src="https://i.imgur.com/jrUuOkW.png"></a>
-
 ### [✔ Латкес (остро)](https://grandkulinar.ru/11728-klassicheskie-latkes.html)
 <a href="https://grandkulinar.ru/11728-klassicheskie-latkes.html"> <img width="30%" src="https://grandkulinar.ru/uploads/posts/2019-12/1576250122_klassicheskie-latkes.jpg"></a>
 
